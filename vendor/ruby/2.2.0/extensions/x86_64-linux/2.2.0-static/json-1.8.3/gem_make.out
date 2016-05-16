@@ -1,0 +1,9 @@
+/home/rhibbitts/.rbenv/versions/2.2.0/bin/ruby -r ./siteconf20160515-1245-1bzpu1c.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+make "DESTDIR=" install
